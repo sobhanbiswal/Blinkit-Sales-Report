@@ -2,7 +2,7 @@ Steps followed while creating the report for blinkit:
 
 1)	Requirement gathering/Business requirement
 
-      a.	Total Sales:
+      a. Total Sales:
   
             i.	Total sales by Fat content – Donut chart
             ii.	Total sales by item type – Bar chart
@@ -11,12 +11,11 @@ Steps followed while creating the report for blinkit:
             v.	Sales by Outlet type – Pie chart/Donut chart
             vi.	Sales by outlet location – Funnel chart
             vii.	All matrix by outlet type – Matrix chart
+       b.	Average Sales
   
-  b.	Average Sales
+       c.	No of items sold
   
-  c.	No of items sold
-  
-  d.	Average Rating
+       d.	Average Rating
 
 2)  Data Walkthrough
 
