@@ -3,6 +3,7 @@ Steps followed while creating the report for blinkit:
 1)	Requirement gathering/Business requirement
 
       a. Total Sales:
+  	
             I.   Total sales by Fat content – Donut chart
             ii.  Total sales by item type – Bar chart
             iii. Fat content by outlet for Total sales – Stacked chart
